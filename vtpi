@@ -1009,6 +1009,12 @@ http://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 http://45.126.83.51/qwr9ew/s/s38/index.m3u8
 #EXTINF:-1 tvg-logo="http://online.tvm.co.mz/site/public/images/flat_1.png", TV Moçambique Internacional
 http://196.28.226.121:1935/live/smil:Channel2.smil/playlist.m3u8
+#EXTINF:-1,i24News HD English
+http://195.35.85.110:8000/play/a0ux
+#EXTINF:-1,i24News HD English
+http://195.35.85.110:8000/play/a0ul
+#EXTINF:-1,i24News HD French
+http://195.35.85.110:8000/play/a0uk
 #EXTINF:-1, TV Chile
 https://d31c1svk0i6vkc.cloudfront.net/tvchile/index.m3u8
 #EXTINF:-1, Zee Living
@@ -6458,3 +6464,285 @@ https://centova.radios.com.pt/proxy/460?mp=/stream
 http://centova.radios.pt:9492/stream
 #EXTINF:-1 tvg-id="" group-title="Radios" tvg-logo="http://www.radiodespertar.net/player/imagens/logo.png",🎧 Radio Despertar Voz de Estremoz
 https://stream.zeno.fm/fx5n4m0xkwzuv
+#EXTINF:-1,1TVRUS Europe
+http://195.35.85.115:8000/play/a046
+#EXTINF:-1,1TVRUS Europe
+http://195.35.85.115:8000/play/a044
+#EXTINF:-1,AD SPORTS 3 HD
+http://195.35.85.115:8000/play/a0gb
+#EXTINF:-1,AD SPORTS 4 HD
+http://195.35.85.115:8000/play/a0gc
+#EXTINF:-1,AIC
+http://195.35.85.115:8000/play/a0fr
+#EXTINF:-1,AL Resala
+http://195.35.85.115:8000/play/a0fl
+#EXTINF:-1,ALFATH TV
+http://195.35.85.115:8000/play/a0fp
+#EXTINF:-1,ALHAWYAH TV
+http://195.35.85.115:8000/play/a0e6
+#EXTINF:-1,ALLAHDAH TV
+http://195.35.85.115:8000/play/a0ee
+#EXTINF:-1,ALhayat
+http://195.35.85.115:8000/play/a0db
+#EXTINF:-1,ARMPUB TV
+http://195.35.85.115:8000/play/a06q
+#EXTINF:-1,Al Fady
+http://195.35.85.115:8000/play/a0ea
+#EXTINF:-1,Al Fath Sonnah TV
+http://195.35.85.115:8000/play/a0ft
+#EXTINF:-1,Al Ghad HD
+http://195.35.85.115:8000/play/a0fz
+#EXTINF:-1,Al Ghad SD
+http://195.35.85.115:8000/play/a0g0
+#EXTINF:-1,Al Ghad SD
+http://195.35.85.115:8000/play/a0bv
+#EXTINF:-1,Al Horreya
+http://195.35.85.115:8000/play/a0eb
+#EXTINF:-1,AlHayat 3
+http://195.35.85.115:8000/play/a0dd
+#EXTINF:-1,AlHayat HD
+http://195.35.85.115:8000/play/a0dc
+#EXTINF:-1,AlSaeedah
+http://195.35.85.115:8000/play/a0fu
+#EXTINF:-1,Alhayat We Alnas
+http://195.35.85.115:8000/play/a0eq
+#EXTINF:-1,Alkarma ME 1
+http://195.35.85.115:8000/play/a0e4
+#EXTINF:-1,All In Channel
+http://195.35.85.115:8000/play/a0bq
+#EXTINF:-1,Almajd General
+http://195.35.85.115:8000/play/a0e0
+#EXTINF:-1,Almamlaka TV
+http://195.35.85.115:8000/play/a06w
+#EXTINF:-1,Almasirah Mubashar
+http://195.35.85.115:8000/play/a0ec
+#EXTINF:-1,Amman TV
+http://195.35.85.115:8000/play/a06u
+#EXTINF:-1,Armenia TV
+http://195.35.85.115:8000/play/a06r
+#EXTINF:-1,Arte Investimenti
+http://195.35.85.115:8000/play/a0bo
+#EXTINF:-1,Asharq News Channel HD
+http://195.35.85.115:8000/play/a0dy
+#EXTINF:-1,Atfal & Mawaheb
+http://195.35.85.115:8000/play/a0e2
+#EXTINF:-1,B4U AFLAM
+http://195.35.85.115:8000/play/a0cz
+#EXTINF:-1,B4U PLUS
+http://195.35.85.115:8000/play/a0d0
+#EXTINF:-1,BBC Arabic Radio
+http://195.35.85.115:8000/play/a041
+#EXTINF:-1,BBC Arabic TV
+http://195.35.85.115:8000/play/a07t
+#EXTINF:-1,BBC Arabic TV
+http://195.35.85.115:8000/play/a03z
+#EXTINF:-1,BBC English (Europe)
+http://195.35.85.115:8000/play/a07u
+#EXTINF:-1,BBC English (Europe)
+http://195.35.85.115:8000/play/a042
+#EXTINF:-1,BBC English Mid-East
+http://195.35.85.115:8000/play/a043
+#EXTINF:-1,BBC Horn of Africa
+http://195.35.85.115:8000/play/a07s
+#EXTINF:-1,BBC Horn of Africa
+http://195.35.85.115:8000/play/a03y
+#EXTINF:-1,BBC World News
+http://195.35.85.115:8000/play/a040
+#EXTINF:-1,CN ARABIA
+http://195.35.85.115:8000/play/a0cw
+#EXTINF:-1,CNN
+http://195.35.85.115:8000/play/a0fv
+#EXTINF:-1,CNN
+http://195.35.85.115:8000/play/a0cu
+#EXTINF:-1,CNNi
+http://195.35.85.115:8000/play/a045
+#EXTINF:-1,CTV AP
+http://195.35.85.115:8000/play/a0bh
+#EXTINF:-1,Canale Italia
+http://195.35.85.115:8000/play/a0bi
+#EXTINF:-1,Canale Italia 2
+http://195.35.85.115:8000/play/a0bj
+#EXTINF:-1,Canale Italia 83
+http://195.35.85.115:8000/play/a0bk
+#EXTINF:-1,Canale Italia 84
+http://195.35.85.115:8000/play/a0bl
+#EXTINF:-1,Drama Al Badawya
+http://195.35.85.115:8000/play/a0da
+#EXTINF:-1,El Sharq
+http://195.35.85.115:8000/play/a0ax
+#EXTINF:-1,Euronews
+http://195.35.85.115:8000/play/a07v
+#EXTINF:-1,Fashion Tv
+http://195.35.85.115:8000/play/a0bg
+#EXTINF:-1,Free TV
+http://195.35.85.115:8000/play/a0fn
+#EXTINF:-1,Free TV
+http://195.35.85.115:8000/play/a07b
+#EXTINF:-1,IFA FAYINA TV
+http://195.35.85.115:8000/play/a0e9
+#EXTINF:-1,Iqra TV
+http://195.35.85.115:8000/play/a0dg
+#EXTINF:-1,Iraq Future TV
+http://195.35.85.115:8000/play/a0ei
+#EXTINF:-1,Jesus Wonderful TV
+http://195.35.85.115:8000/play/a0e7
+#EXTINF:-1,Jordan HD
+http://195.35.85.115:8000/play/a0cd
+#EXTINF:-1,Jordan Sport
+http://195.35.85.115:8000/play/a06v
+#EXTINF:-1,Jordan TV
+http://195.35.85.115:8000/play/a0df
+#EXTINF:-1,Kentron TV
+http://195.35.85.115:8000/play/a0ga
+#EXTINF:-1,Kentron TV
+http://195.35.85.115:8000/play/a0ch
+#EXTINF:-1,LANA TV HD
+http://195.35.85.115:8000/play/a0cv
+#EXTINF:-1,LBC SAT
+http://195.35.85.115:8000/play/a0fk
+#EXTINF:-1,Libya WTV
+http://195.35.85.115:8000/play/a0eg
+#EXTINF:-1,Logos TV
+http://195.35.85.115:8000/play/a0ef
+#EXTINF:-1,MEKAMELEEN TV
+http://195.35.85.115:8000/play/a0ay
+#EXTINF:-1,Mazzika
+http://195.35.85.115:8000/play/a0fs
+#EXTINF:-1,Mazzika
+http://195.35.85.115:8000/play/a07d
+#EXTINF:-1,Misr Al Zera3eya
+http://195.35.85.115:8000/play/a0fq
+#EXTINF:-1,Misr ELBald
+http://195.35.85.115:8000/play/a0ed
+#EXTINF:-1,Nessma
+http://195.35.85.115:8000/play/a0er
+#EXTINF:-1,Nile FM
+http://195.35.85.115:8000/play/a0g1
+#EXTINF:-1,Nogoum FM
+http://195.35.85.115:8000/play/a0g2
+#EXTINF:-1,Nogoum FM TV
+http://195.35.85.115:8000/play/a0fy
+#EXTINF:-1,Nour Al Sharq
+http://195.35.85.115:8000/play/a0ek
+#EXTINF:-1,Nour Elsham
+http://195.35.85.115:8000/play/a0co
+#EXTINF:-1,Nour Koddass
+http://195.35.85.115:8000/play/a0el
+#EXTINF:-1,Noursat English
+http://195.35.85.115:8000/play/a0em
+#EXTINF:-1,ON E
+http://195.35.85.115:8000/play/a0g7
+#EXTINF:-1,ON Drama
+http://195.35.85.115:8000/play/a0g9
+#EXTINF:-1,ONTIME SPORTS
+http://195.35.85.115:8000/play/a0g8
+#EXTINF:-1,ONTIME SPORTS2
+http://195.35.85.115:8000/play/a0g6
+#EXTINF:-1,RT Arabic
+http://195.35.85.115:8000/play/a0az
+#EXTINF:-1,RT Arabic HD
+http://195.35.85.115:8000/play/a0dz
+#EXTINF:-1,RT Doc
+http://195.35.85.115:8000/play/a047
+#EXTINF:-1,RTPi
+http://195.35.85.115:8000/play/a06t
+#EXTINF:-1,Rai 1
+http://195.35.85.115:8000/play/a06l
+#EXTINF:-1,Rai 2
+http://195.35.85.115:8000/play/a06m
+#EXTINF:-1,Rai 3
+http://195.35.85.115:8000/play/a06n
+#EXTINF:-1,Rai 3 TGR FVG
+http://195.35.85.115:8000/play/a06j
+#EXTINF:-1,Rai 4
+http://195.35.85.115:8000/play/a06o
+#EXTINF:-1,Rai Movie
+http://195.35.85.115:8000/play/a06k
+#EXTINF:-1,Rai News 24
+http://195.35.85.115:8000/play/a06p
+#EXTINF:-1,Regal TV
+http://195.35.85.115:8000/play/a0bn
+#EXTINF:-1,Rotana Cinema EGY
+http://195.35.85.115:8000/play/a0fi
+#EXTINF:-1,Rotana Cinema KSA
+http://195.35.85.115:8000/play/a0fj
+#EXTINF:-1,Rotana Classic
+http://195.35.85.115:8000/play/a0fg
+#EXTINF:-1,Rotana Clip
+http://195.35.85.115:8000/play/a0fe
+#EXTINF:-1,Rotana Drama
+http://195.35.85.115:8000/play/a0fh
+#EXTINF:-1,Rotana FM KSA
+http://195.35.85.115:8000/play/a0fm
+#EXTINF:-1,Rotana Khalijia
+http://195.35.85.115:8000/play/a0ff
+#EXTINF:-1,Rotana Music
+http://195.35.85.115:8000/play/a0fd
+#EXTINF:-1,Rotana Radio Jordan
+http://195.35.85.115:8000/play/a0an
+#EXTINF:-1,Rotana TarabJordan
+http://195.35.85.115:8000/play/a0ao
+#EXTINF:-1,SALAM TV
+http://195.35.85.115:8000/play/a0b0
+#EXTINF:-1,SAMA TV
+http://195.35.85.115:8000/play/a0cq
+#EXTINF:-1,Sonlife
+http://195.35.85.115:8000/play/a06s
+#EXTINF:-1,Souryana
+http://195.35.85.115:8000/play/a0cp
+#EXTINF:-1,Suboro TV
+http://195.35.85.115:8000/play/a0ej
+#EXTINF:-1,Syria Drama
+http://195.35.85.115:8000/play/a0cn
+#EXTINF:-1,Syria Satellite
+http://195.35.85.115:8000/play/a0cm
+#EXTINF:-1,TLC Telecampione
+http://195.35.85.115:8000/play/a0bm
+#EXTINF:-1,TURKMENELI HD
+http://195.35.85.115:8000/play/a0e1
+#EXTINF:-1,TV5
+http://195.35.85.115:8000/play/a0fo
+#EXTINF:-1,TV5
+http://195.35.85.115:8000/play/a07c
+#EXTINF:-1,Telecupole
+http://195.35.85.115:8000/play/a0bp
+#EXTINF:-1,Test
+http://195.35.85.115:8000/play/a0fx
+#EXTINF:-1,Tevza TV
+http://195.35.85.115:8000/play/a0f5
+#EXTINF:-1,The Savior
+http://195.35.85.115:8000/play/a0eh
+#EXTINF:-1,Tunis Culture
+http://195.35.85.115:8000/play/a0bw
+#EXTINF:-1,Tunis International
+http://195.35.85.115:8000/play/a0by
+#EXTINF:-1,Tunis National
+http://195.35.85.115:8000/play/a0bx
+#EXTINF:-1,Tunisia 1 HD
+http://195.35.85.115:8000/play/a0f6
+#EXTINF:-1,Tunisia 2 HD
+http://195.35.85.115:8000/play/a0f7
+#EXTINF:-1,Tunisia Nat 1
+http://195.35.85.115:8000/play/a0bt
+#EXTINF:-1,Tunisia Nat 1
+http://195.35.85.115:8000/play/a0f2
+#EXTINF:-1,Tunisia Nat 2
+http://195.35.85.115:8000/play/a0fw
+#EXTINF:-1,Tunisia Nat 2
+http://195.35.85.115:8000/play/a0bu
+#EXTINF:-1,Tunisia Nat 2
+http://195.35.85.115:8000/play/a0f3
+#EXTINF:-1,Tunisna
+http://195.35.85.115:8000/play/a0f4
+#EXTINF:-1,WATAN TV
+http://195.35.85.115:8000/play/a0g5
+#EXTINF:-1,Waad
+http://195.35.85.115:8000/play/a0e8
+#EXTINF:-1,YOUSAT
+http://195.35.85.115:8000/play/a0e5
+#EXTINF:-1,ZEE AFLAM
+http://195.35.85.115:8000/play/a0cx
+#EXTINF:-1,ZEE ALWAN
+http://195.35.85.115:8000/play/a0cy
+#EXTINF:-1,i24 News Arabic
+http://195.35.85.115:8000/play/a0aw
