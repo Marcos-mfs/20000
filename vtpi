@@ -11,6 +11,8 @@ https://stream-03.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZaji9U47UIS-jI6cds
 http://200.71.72.50/BAND_HD/mpegts
 #EXTINF:0 type="video" channelId="-1", AMAZONSAT
 https://5f1ce9c7dc62b.streamlock.net/amazonsat/amazonsat/chunklist_w1945064115.m3u8
+#EXTINF:0 type="video" channelId="-1", FOROTV TELEVISA NEWS
+https://live-streams-notusa.televisa.com/channel02-b/index_6.m3u8
 #EXTINF:0 type="video" channelId="-1", BBC ONE
 http://93.190.139.35:8278/streams/d/bbc1_antik/playlist.m3u8
 #EXTINF:0 type="video" channelId="-1", BBC TWO
