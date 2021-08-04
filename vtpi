@@ -18,67 +18,23 @@ http://93.190.139.35:8278/streams/d/bbc1_antik/playlist.m3u8
 #EXTINF:0 type="video" channelId="-1", BBC TWO
 http://93.190.139.35:8278/streams/d/bbc2_antik/playlist.m3u8
 #EXTINF:0 type="video" channelId="-1", RBTV
-https://video01.logicahost.com.br/redebrasil/redebrasil/chunklist_w827851635.m3u8
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w597925049.m3u8
 #EXTINF:7200,GLOBO NEWS
 #EXTVLCOPT:network-caching=1000
 http://live.video.globo.com/h/1402196702324012345678915746223249876543210St7g4OJToXerIDT3UieWkw/k/app/a/A/u/anyone/d/s/hls-gnews24ha/playlist.m3u8
 #EXTINF:5400,GLOBO RJO
 #EXTVLCOPT:network-caching=1000
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
-#EXTINF:0 type="video" channelId="-1", CULTURA
-https://origin-02.nxplay.com.br/TV_CULTURA_HD_PFZ1/video.m3u8
-#EXTINF:0 type="video" channelId="-1", GLOBO SP
-http://50.7.34.155:2200/BR/Globo_HD_SP-br/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="video" channelId="-1", RECORD
-https://origin-02.nxplay.com.br/RECORD_HD_121/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="video" channelId="-1", REDE TV
-https://origin-02.nxplay.com.br/REDETV_HD_SIMBA/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="video" channelId="-1", GAZETA
-https://origin-02.nxplay.com.br/TV_GAZETA_NX/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="video" channelId="-1", BAND REDE
 https://evpp.mm.uol.com.br/geob_band/band/chunklist_w718114521.m3u8
 #EXTINF:0 type="video" channelId="-1", BAND
 http://200.4.96.35:8003/play/a039/index.m3u8
-#EXTINF:0 type="video" channelId="-1", FUTURA
-https://canal1.proxy.tokplay.com.br/videos/event9/profile2.m3u8
-#EXTINF:0 type="video" channelId="-1", TV BRASIL
-https://origin-02.nxplay.com.br/TV_BRASIL_NX/video.m3u8
-#EXTINF:0 type="video" channelId="-1", TV BRASIL 2
-https://origin-02.nxplay.com.br/TV_BRASIL_2/video.m3u8
 #EXTINF:0 type="video" channelId="-1", CNN BRASIL
 http://200.4.96.35:8003/play/a02d/index.m3u8
-#EXTINF:0 type="video" channelId="-1", RECORD NEWS
-https://origin-02.nxplay.com.br/RECORD_NEWS/tracks-v1a1a2/mono.m3u8
-#EXTINF:0 type="video" channelId="-1", BANDNEWS
-https://origin-02.nxplay.com.br/BAND_NEWS_NXPLAY_1/tracks-v1a1a2/mono.m3u8
 #EXTINF:0 type="video" channelId="-1", BAND SPORTS
 http://200.4.96.35:8001/play/a0f9/index.m3u8
-#EXTINF:0 type="video" channelId="-1", SMITHSONIAN
-https://origin-02.nxplay.com.br/SMITHSONIAN_HD/video.m3u8
-#EXTINF:0 type="video" channelId="-1", ARTE 1
-https://origin-02.nxplay.com.br/ARTE1_NX/tracks-v1a1a2/mono.m3u8
-#EXTINF:0 type="video" channelId="-1", TERRA VIVA
-https://origin-02.nxplay.com.br/TERRAVIVA/tracks-v1a1a2/mono.m3u8
 #EXTINF:0 type="video" channelId="-1", AGRO +
 http://200.4.96.35:8004/play/a0fc/index.m3u8
-#EXTINF:0 type="video" channelId="-1", CANAL DO BOI
-https://origin-02.nxplay.com.br/CANAL_DO_BOI_NX/video.m3u8
-#EXTINF:0 type="video" channelId="-1", CAN??O NOVA
-https://origin-02.nxplay.com.br/CANCAO_NOVA_01/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="video" channelId="-1", APARECIDA
-https://origin-02.nxplay.com.br/TV_APARECIDA/video.m3u8
-#EXTINF:22 type="video" channelId="-1", NOVO TEMPO HD
-https://cdn-1.nxplay.com.br/NOVO_TEMPO_HD_PFZ/video.m3u8
-#EXTINF:0 type="video" channelId="-1", COMEDY CENTRAL
-http://200.4.96.35:8003/play/a01y/index.m3u8
-#EXTINF:0 type="video" channelId="-1", PARAMOUNT
-https://origin-02.nxplay.com.br/PCBR_HD_NX_9998_/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="video" channelId="-1", MTV
-https://origin-02.nxplay.com.br/MTV_BR_98588_97731/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="video" channelId="-1", MTV LIVE HD
-https://origin-02.nxplay.com.br/MTVLIVE/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="video" channelId="-1", ZOOMOO
-https://origin-02.nxplay.com.br/ZOOMOO_HD_NX_01/video.m3u8
 #EXTINF:0 type="video" channelId="-1", RECORD TV ITAPOAN
 https://canal1.proxy.tokplay.com.br/videos/event2/profile2.m3u8
 #EXTINF:0 type="video" channelId="-1", REDE TV
@@ -89,92 +45,6 @@ https://canal1.proxy.tokplay.com.br/videos/event5/profile2.m3u8
 https://canal1.proxy.tokplay.com.br/videos/event9/profile2.m3u8
 #EXTINF:0 type="video" channelId="-1", GAZETA SP
 https://canal1.proxy.tokplay.com.br/videos/event4/profile2.m3u8
-#E#EXTINF:0 type="video" channelId="-1", REDBULL TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-#EXTINF:0 type="video" channelId="-1", NICK
-https://origin-02.nxplay.com.br/NICK_BR_HD_p983941/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="video" channelId="-1", NICK JR
-http://200.4.96.35:8003/play/a03s/index.m3u8
-#EXTINF:0 type="video" channelId="-1", WOHOO
-https://origin-02.nxplay.com.br/WOOHOO_NXPLAY/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="video" channelId="-1", FISH TV
-https://origin-02.nxplay.com.br/FISH_TV_NX/video.m3u8
-#EXTINF:0 type="video" channelId="-1", SESCTV
-https://origin-02.nxplay.com.br/SESC_TV/video.m3u8
-#EXTINF:0 type="video" channelId="-1", FASHION TV
-https://origin-02.nxplay.com.br/FASHIONONE_HD/video.m3u8
-#EXTINF:0 type="video" channelId="-1", ZOOMOO BR
-https://origin-02.nxplay.com.br/ZOOMOO_HD_NX_01/video.m3u8
-#EXTINF:0 type="video" channelId="-1", CCTV4
-https://origin-02.nxplay.com.br/CCTV/video.m3u8
-#EXTINF:0 type="video" channelId="-1", CGTN DOCUMENTARY
-https://origin-02.nxplay.com.br/CGNT_DOCUMENTARY/video.m3u8
-#EXTINF:0 type="video" channelId="-1", CGTN AMERICA E
-https://origin-02.nxplay.com.br/CGNT/video.m3u8
-#EXTINF:0 type="video" channelId="-1", CGTN ESPANOL
-https://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:0 type="video" channelId="-1", REDE METROPOLE
-https://origin-02.nxplay.com.br/METROPOLE/video.m3u8
-#EXTINF:0 type="video" channelId="-1", REDE METROPOLE BACKUP
-http://187.33.200.235:9000/hls/redemetropole.m3u8
-#EXTINF:0 type="video" channelId="-1", TV COM BRASIL
-https://596639ebdd89b.streamlock.net/8032/8032/chunklist_w537120110.m3u8
-#EXTINF:0 type="video" channelId="-1", PIXTV
-https://tmwpix.com:7007/pix/pixtv_hi.m3u8
-#EXTINF:0 type="video" channelId="-1", TELESUR
-https://d34atfaah7iyyu.cloudfront.net/mbliveOcas/hd/chunklist_w1571657473.m3u8
-#EXTINF:0 type="video" channelId="-1", PRIMEBOX BRAZIL
-https://origin-02.nxplay.com.br/PRIME_HD/video.m3u8
-#EXTINF:0 type="video" channelId="-1", TRACE SPORTS
-https://origin-02.nxplay.com.br/TRACE_SPORT/video.m3u8
-#EXTINF:0 type="video" channelId="-1", AMC
-https://origin-02.nxplay.com.br/AMC_BRASIL_15581/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="video" channelId="-1", FILM & ARTS
-https://origin-02.nxplay.com.br/Film_Arts_Brasil/tracks-v1a1a2a3l2/mono.m3u8
-#EXTINF:0 type="video" channelId="-1", CANAL SAUDE
-https://origin-02.nxplay.com.br/TV_SAUDE/video.m3u8
-#EXTINF:0 type="video" channelId="-1", ARIRANG
-https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-#EXTINF:0 type="video" channelId="-1", NHK WORLD
-https://origin-02.nxplay.com.br/NHK/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="video" channelId="-1", CLASSIC HITS
-https://origin-02.nxplay.com.br/classichit/video.m3u8
-#EXTINF:0 type="video" channelId="-1", TV BRASIL
-https://origin-02.nxplay.com.br/TV_BRASIL_NX/video.m3u8
-#EXTINF:0 type="video" channelId="-1", TV NOVO TEMPO
-https://origin-02.nxplay.com.br/NOVO_TEMPO_HD_PFZ/video.m3u8
-#EXTINF:0 type="video" channelId="-1", TV BRASIL 2
-https://origin-02.nxplay.com.br/TV_BRASIL_2/video.m3u8
-#EXTINF:0 type="video" channelId="-1", ALJAZZERA
-https://live-hls-web-aje.getaj.net/AJE/03.m3u8
-#EXTINF:0 type="video" channelId="-1", TV TROPICAL RECORD RN
-https://origin-02.nxplay.com.br/TV_TROPICAL/video.m3u8
-#EXTINF:0 type="video" channelId="-1", URBAN SERIES
-https://5ad482a77183d.streamlock.net/urbantvseriesgmail.com/urbantvseriesgmail.com/chunklist_w1589034508.m3u8
-#EXTINF:29 type="video" channelId="-1", URBAN MOVIES
-https://origin-02.nxplay.com.br/Urban_movie/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="video" channelId="-1", URBAN KIDS
-https://5ad482a77183d.streamlock.net/urbantvkidsgmail.com/urbantvkidsgmail.com/chunklist_w1092172252.m3u8
-#EXTINF:0 type="video" channelId="-1", URBAN DOCS
-https://5ad482a77183d.streamlock.net/urbantvdocsgmail.com/urbantvdocsgmail.com/chunklist_w1433878076.m3u8
-#EXTINF:0 type="video" channelId="-1", URBAN TV
-https://5ad482a77183d.streamlock.net/urbantvbrasilgmail.com/urbantvbrasilgmail.com/chunklist_w1825527269.m3u8
-#EXTINF:0 type="video" channelId="-1", CANAL AMERICA LATINO
-https://origin-02.nxplay.com.br/AMERICOLATINO/video.m3u8
-#EXTINF:0 type="video" channelId="-1", CANAL HITTS
-https://origin-02.nxplay.com.br/HITTS/video.m3u8
-#EXTINF:0 type="video" channelId="-1", CANAL BRA
-https://origin-02.nxplay.com.br/BRAmusic/video.m3u8
-#EXTINF:0 type="video" channelId="-1", CANAL MEGA
-https://origin-02.nxplay.com.brMEGA/video.m3u8
-#EXTINF:0 type="video" channelId="-1", CANAL CULT
-https://origin-02.nxplay.com.br/Cult/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="video" channelId="-1", CONECTV
-https://origin-02.nxplay.com.br/CONECT_TV/video.m3u8
-#EXTINF:0 type="video" channelId="-1", ARGENTINISSIMA SATELITAL
-http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_w2091833482_b1912000_sleng.m3u8
-#EXTINF:0 type="video" channelId="-1", TBS
-http://200.4.96.35:8003/play/a02h/index.m3u8
 #EXTINF:0 type="video" channelId="-1", SEX PRIVE
 https://origin-02.nxplay.com.br/SEXPRIVE_HD/tracks-v1a1/mono.m3u8
 #EXTINF:0,AgroMais HD
