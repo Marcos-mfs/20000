@@ -896,7 +896,94 @@ http://187.188.147.146:8050/play/a010/index.m3u8
 http://187.188.147.146:8050/play/a01h/index.m3u8
 #EXTINF: -1, VENUS
 http://187.188.147.146:8050/play/a01d/index.m3u8
-
+#EXTINF:-1,101TV HD
+http://149.62.177.157:8000/play/a00b
+#EXTINF:-1,24h
+http://149.62.177.157:8000/play/a00g
+#EXTINF:-1,24h HD
+http://149.62.177.157:8000/play/a00h
+#EXTINF:-1,AndaluciaTV
+http://149.62.177.157:8000/play/a00v
+#EXTINF:-1,BOM
+http://149.62.177.157:8000/play/a00u
+#EXTINF:-1,BeMad tv HD
+http://149.62.177.157:8000/play/a01f
+#EXTINF:-1,Boing
+http://149.62.177.157:8000/play/a010
+#EXTINF:-1,CANAL MALAGA
+http://149.62.177.157:8000/play/a009
+#EXTINF:-1,CANAL MALAGA HD
+http://149.62.177.157:8000/play/a00a
+#EXTINF:-1,CanalSur
+http://149.62.177.157:8000/play/a00r
+#EXTINF:-1,CanalSur2
+http://149.62.177.157:8000/play/a00s
+#EXTINF:-1,CanalSurHD
+http://149.62.177.157:8000/play/a00t
+#EXTINF:-1,Clan
+http://149.62.177.157:8000/play/a00o
+#EXTINF:-1,Clan HD
+http://149.62.177.157:8000/play/a00l
+#EXTINF:-1,Cuatro
+http://149.62.177.157:8000/play/a018
+#EXTINF:-1,Cuatro HD
+http://149.62.177.157:8000/play/a01c
+#EXTINF:-1,DKISS
+http://149.62.177.157:8000/play/a00p
+#EXTINF:-1,DMAX
+http://149.62.177.157:8000/play/a014
+#EXTINF:-1,Disney Channel
+http://149.62.177.157:8000/play/a012
+#EXTINF:-1,Divinity
+http://149.62.177.157:8000/play/a01a
+#EXTINF:-1,Energy
+http://149.62.177.157:8000/play/a00z
+#EXTINF:-1,FDF
+http://149.62.177.157:8000/play/a019
+#EXTINF:-1,GOL
+http://149.62.177.157:8000/play/a015
+#EXTINF:-1,La 1
+http://149.62.177.157:8000/play/a00e
+#EXTINF:-1,La 1 HD
+http://149.62.177.157:8000/play/a00i
+#EXTINF:-1,La 2
+http://149.62.177.157:8000/play/a00f
+#EXTINF:-1,La 2 HD
+http://149.62.177.157:8000/play/a00j
+#EXTINF:-1,MUNDO
+http://149.62.177.157:8000/play/a00c
+#EXTINF:-1,PARAMOUNT NETWORK
+http://149.62.177.157:8000/play/a013
+#EXTINF:-1,Realmadrid TV HD
+http://149.62.177.157:8000/play/a01g
+#EXTINF:-1,TEN
+http://149.62.177.157:8000/play/a01h
+#EXTINF:-1,TRECE
+http://149.62.177.157:8000/play/a00y
+#EXTINF:-1,Telecinco
+http://149.62.177.157:8000/play/a017
+#EXTINF:-1,Telecinco HD
+http://149.62.177.157:8000/play/a01b
+#EXTINF:-1,antena3
+http://149.62.177.157:8000/play/a003
+#EXTINF:-1,antena3 HD
+http://149.62.177.157:8000/play/a002
+#EXTINF:-1,atreseries HD
+http://149.62.177.157:8000/play/a01e
+#EXTINF:-1,laSexta
+http://149.62.177.157:8000/play/a005
+#EXTINF:-1,laSexta HD
+http://149.62.177.157:8000/play/a004
+#EXTINF:-1,mega
+http://149.62.177.157:8000/play/a00x
+#EXTINF:-1,neox
+http://149.62.177.157:8000/play/a006
+#EXTINF:-1,nova
+http://149.62.177.157:8000/play/a007
+#EXTINF:-1,tdp
+http://149.62.177.157:8000/play/a00m
+#EXTINF:-1,tdp HD
+http://149.62.177.157:8000/play/a00n
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rm0MXLH.png", Super!
 https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@357018/master.m3u8
