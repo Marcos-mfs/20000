@@ -1,14 +1,22 @@
 #EXTM3U
 #EXTINF:-1,ABC
-https://streams.the6tv.duckdns.org:2443/locals/NewYorkCity/wabc-dt1.m3u8
+https://cdn87.theus6tv.tk/locals/NewYorkCity/wabc-dt1.m3u8
 #EXTINF:-1,CBS
-https://streams.the6tv.duckdns.org:2443/locals/NewYorkCity/wcbs-dt1.m3u8
+https://cdn87.theus6tv.tk/locals/NewYorkCity/wcbs-dt1.m3u8
 #EXTINF:-1,NBC
-https://streams.the6tv.duckdns.org:2443/locals/NewYorkCity/wnbc-dt1.m3u8
+https://cdn87.theus6tv.tk/locals/NewYorkCity/wnbc-dt1.m3u8
+#EXTINF:-1, Cosi tv
+https://cdn87.theus6tv.tk/locals/NewYorkCity/wnbc-dt2.m3u8
 #EXTINF:-1,FOX NY
-https://streams.the6tv.duckdns.org:2443/locals/NewYorkCity/wnyw-dt1.m3u8
+https://cdn87.theus6tv.tk/locals/NewYorkCity/wnyw-dt1.m3u8
 #EXTINF:-1,UNIVISION
-https://streams.the6tv.duckdns.org:2443/locals/NewYorkCity/wxtv-dt1.m3u8
+https://cdn87.theus6tv.tk/locals/NewYorkCity/wxtv-dt1.m3u8
+#EXTINF:-1,TELEMUNDO PHOENIX
+https://cdn87.theus6tv.tk/locals/Pheonix/ktaz-dt1.m3u8
+#EXTINF:-1, CBC NEWS
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
+#EXTINF:-1, CBC NEWS
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-cbcnews/CDN/master.m3u8
 #EXTINF:0 type="video" channelId="-1", MENDANHA
 https://5a7d54e35f9d2.streamlock.net/morromendanha1/morromendanha1.stream/chunklist_w655056799.m3u8
 #EXTINF:0 type="video" channelId="-1", PCA CIVICA
