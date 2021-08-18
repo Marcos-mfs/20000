@@ -1,10 +1,16 @@
 #EXTM3U
 #EXTINF:-1,ABC
 https://cdn87.theus6tv.tk/locals/NewYorkCity/wabc-dt1.m3u8
+#EXTINF:-1,ABC LOS ANGELES
+https://cdn87.theus6tv.tk/locals/SoCal/kabc-dt1.m3u8
 #EXTINF:-1,CBS
 https://cdn87.theus6tv.tk/locals/NewYorkCity/wcbs-dt1.m3u8
 #EXTINF:-1,NBC
 https://cdn87.theus6tv.tk/locals/NewYorkCity/wnbc-dt1.m3u8
+#EXTINF:-1,NBC LOS ANGELES
+https://cdnapisec.kaltura.com/p/2630451/sp/2630451/playManifest/entryId/1_61e7x33e/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
+#EXTINF:-1,NBC LOS ANGELES 2
+https://cdn87.theus6tv.tk/locals/SoCal/knbc-dt1.m3u8
 #EXTINF:-1, Cosi tv
 https://cdn87.theus6tv.tk/locals/NewYorkCity/wnbc-dt2.m3u8
 #EXTINF:-1,FOX NY
