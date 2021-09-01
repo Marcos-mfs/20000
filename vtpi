@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,CORONAVIRUS PANDEMIC STATISTCS
+http://fanoontv.com:6995/play/covid19
 #EXTINF:-1,ABC
 https://cdn87.theus6tv.tk/locals/NewYorkCity/wabc-dt1.m3u8
 #EXTINF:-1,ABC LOS ANGELES
@@ -21,6 +23,7 @@ https://cdn87.theus6tv.tk/locals/NewYorkCity/wnyw-dt1.m3u8
 https://cdn87.theus6tv.tk/locals/NewYorkCity/wxtv-dt1.m3u8
 #EXTINF:-1,TELEMUNDO PHOENIX
 https://cdn87.theus6tv.tk/locals/Pheonix/ktaz-dt1.m3u8
+
 #EXTINF:0 type="video" channelId="-1", MENDANHA
 https://5a7d54e35f9d2.streamlock.net/morromendanha1/morromendanha1.stream/chunklist_w655056799.m3u8
 #EXTINF:0 type="video" channelId="-1", PCA CIVICA
